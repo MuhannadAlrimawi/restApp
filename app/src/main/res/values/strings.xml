@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarMenu</string>
+    <string-array name="options">
+        <item>kia</item>
+        <item>izuzu</item>
+        <item>lancer</item>
+    </string-array>
+</resources>
